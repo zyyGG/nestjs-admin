@@ -2,7 +2,8 @@
 https://docs.nestjs.com/providers#services
 */
 
-import { InjectRedis, Redis } from '@nestjs-modules/ioredis';
+import { Redis } from 'ioredis';
+import { InjectRedis } from '@nestjs-modules/ioredis';
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import * as moment from 'moment';

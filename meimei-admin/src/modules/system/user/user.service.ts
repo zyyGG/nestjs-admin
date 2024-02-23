@@ -8,7 +8,8 @@
  * You can you up，no can no bb！！
  */
 
-import { InjectRedis, Redis } from '@nestjs-modules/ioredis';
+import { Redis } from 'ioredis';
+import { InjectRedis } from '@nestjs-modules/ioredis';
 import { forwardRef, Inject, Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import * as moment from 'moment';

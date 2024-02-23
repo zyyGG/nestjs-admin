@@ -1,8 +1,8 @@
 /*
 https://docs.nestjs.com/providers#services
 */
-
-import { InjectRedis, Redis } from '@nestjs-modules/ioredis';
+import { Redis } from 'ioredis';
+import { InjectRedis } from '@nestjs-modules/ioredis';
 import { Injectable } from '@nestjs/common';
 import {
   USER_ONLINE_KEY,

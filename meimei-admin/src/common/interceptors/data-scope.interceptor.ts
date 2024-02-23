@@ -7,8 +7,8 @@
  * @FilePath: \meimei-admin\src\common\interceptors\data-scope.interceptor.ts
  * You can you up，no can no bb！！
  */
-
-import { InjectRedis, Redis } from '@nestjs-modules/ioredis';
+import { Redis } from 'ioredis';
+import { InjectRedis } from '@nestjs-modules/ioredis';
 import {
   Injectable,
   NestInterceptor,

@@ -8,7 +8,8 @@
  * You can you up，no can no bb！！
  */
 
-import { InjectRedis, Redis } from '@nestjs-modules/ioredis';
+import { Redis } from 'ioredis';
+import { InjectRedis } from '@nestjs-modules/ioredis';
 import { PipeTransform, Injectable, ArgumentMetadata } from '@nestjs/common';
 import {
   USER_DEPTID_KEY,
