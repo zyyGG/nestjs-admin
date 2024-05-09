@@ -3,7 +3,7 @@
 
 
 ## 在线体验
-  - [演示地址](http://www.zt-hf.com/meimei/#/index)
+  - [演示地址](http://203.25.211.232:888/meimei/#/login)
   - [文档地址](https://87789771.github.io/#/)
   - [码源地址](https://github.com/87789771/meimei-nestjs-admin)
 
@@ -101,16 +101,15 @@
 ```
 
 ## 系统截图
- ![](http://42.192.136.154:3000/upload/github/1.png)
- ![](http://42.192.136.154:3000/upload/github/2.png)
- ![](http://42.192.136.154:3000/upload/github/3.png)
- ![](http://42.192.136.154:3000/upload/github/4.png)
- ![](http://42.192.136.154:3000/upload/github/5.png)
- ![](http://42.192.136.154:3000/upload/github/6.png)
- ![](http://42.192.136.154:3000/upload/github/7.png)
- ![](http://42.192.136.154:3000/upload/github/8.png)
- ![](http://42.192.136.154:3000/upload/github/9.png)
- ![](http://42.192.136.154:3000/upload/github/10.png)
- ![](http://42.192.136.154:3000/upload/github/11.png)
- ![](http://42.192.136.154:3000/upload/github/12.png)
- ![](http://42.192.136.154:3000/upload/github/13.png)
+ ![](http://203.25.211.232:888/meimei-prod/github/1.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/2.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/3.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/4.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/5.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/6.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/7.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/8.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/9.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/10.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/11.jpg)
+ ![](http://203.25.211.232:888/meimei-prod/github/12.jpg)
