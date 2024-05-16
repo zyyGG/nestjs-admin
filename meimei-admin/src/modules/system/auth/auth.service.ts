@@ -1,4 +1,4 @@
-import { Redis } from 'ioredis';
+import Redis from 'ioredis';
 import { InjectRedis} from '@nestjs-modules/ioredis';
 import { Injectable } from '@nestjs/common';
 import { isEmpty  } from 'lodash';
